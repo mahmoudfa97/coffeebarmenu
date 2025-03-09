@@ -73,7 +73,7 @@ export const coffeeData: CoffeeItem[] = [
   {
     id: "9",
     name: "Cinnamon Roll",
-    description: "Freshly baked with cream cheese frosting",
+    description: "Freshly baked with cream cheese frosting very delicious",
     price: 4.5,
     category: "pastry",
     image: "https://source.unsplash.com/200x200/?cinnamon-roll,pastry",
