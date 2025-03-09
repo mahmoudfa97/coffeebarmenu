@@ -16,7 +16,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Equal parts espresso, steamed milk, and milk foam",
     price: 4.75,
     category: "hot",
-    image: "https://images.unsplash.com/photo-1523942839749-1000015cd84e?w=500&h=500&fit=crop",
+    image: "https://nucleuscoffee.com/cdn/shop/articles/cappuccino.jpg?v=1713632521",
     isPopular: true,
   },
   {
@@ -25,7 +25,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Espresso with steamed milk and a light layer of foam",
     price: 4.5,
     category: "hot",
-    image: "https://images.unsplash.com/photo-1562440499-64b44d2eb5e1?w=500&h=500&fit=crop",
+    image: "https://www.nespresso.com/ncp/res/uploads/recipes/nespresso-recipes-Latte-Art-Tulip.jpg",
   },
   {
     id: "4",
@@ -33,7 +33,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Slow-steeped for 12 hours for a smooth, rich flavor",
     price: 5.25,
     category: "cold",
-    image: "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=500&h=500&fit=crop",
+    image: "https://lifemadesweeter.com/wp-content/uploads/Easy-Cold-Brew-Coffee-Recipe-Vegan-Dairy-Free-Paleo-Healthy.jpg",
     isPopular: true,
   },
   {
@@ -42,7 +42,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Espresso poured over ice with cold milk",
     price: 4.75,
     category: "cold",
-    image: "https://images.unsplash.com/photo-1557844352-e18607fcf23e?w=500&h=500&fit=crop",
+    image: "https://www.peanutbutterandfitness.com/wp-content/uploads/2023/08/Smores-Iced-Latte-Recipe-7.jpg",
   },
   {
     id: "6",
@@ -50,7 +50,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Cold brew infused with nitrogen for a creamy texture",
     price: 5.75,
     category: "cold",
-    image: "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=500&h=500&fit=crop",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdPZyz2qrgEKv30uJby4FDVfvDE7pP6h6Cw&s",
     isNew: true,
   },
   {
@@ -59,7 +59,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Buttery croissant filled with almond cream",
     price: 4.25,
     category: "pastry",
-    image: "https://images.unsplash.com/photo-1603297631694-d6d83c5a6e1e?w=500&h=500&fit=crop",
+    image: "https://lh5.googleusercontent.com/proxy/mhkKFnZqweeTWi-xS5bmTp-jrWSJsMzX2k_LFao8BJ0ukxhaiX1Ag4nTH02nFyAHaUIwH63lv2uXaJRWLXDGS3aNFHntJbVKmJObOEDcfZFwg-uJKgOPm6n1qtH2pJFrZToR1xGeBWFhsP6moME",
     isPopular: true,
   },
   {
@@ -68,7 +68,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Rich chocolate muffin with chocolate chips",
     price: 3.75,
     category: "pastry",
-    image: "https://images.unsplash.com/photo-1614718996344-f7b6060ce855?w=500&h=500&fit=crop",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRecEfX0hSxykk5ttSAc7JIGteTRLcxP8fK6g&s",
   },
   {
     id: "9",
@@ -76,7 +76,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Freshly baked with cream cheese frosting",
     price: 4.5,
     category: "pastry",
-    image: "https://images.unsplash.com/photo-1598373182131-aefda5a95a9e?w=500&h=500&fit=crop",
+    image: "https://tastecooking.com/wp-content/uploads/2016/01/cinnamon.jpg",
   },
   {
     id: "10",
@@ -84,7 +84,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Seasonal favorite with real pumpkin and spices",
     price: 5.5,
     category: "seasonal",
-    image: "https://images.unsplash.com/photo-1600185365926-3a4aafcb059c?w=500&h=500&fit=crop",
+    image: "https://www.ambitiouskitchen.com/wp-content/uploads/2021/09/Pumpkin-Spice-Latte-4.jpg",
     isNew: true,
   },
   {
@@ -93,7 +93,7 @@ export const coffeeData: CoffeeItem[] = [
     description: "Espresso with maple syrup and pecan flavoring",
     price: 5.75,
     category: "seasonal",
-    image: "https://images.unsplash.com/photo-1600185365926-3a4aafcb059c?w=500&h=500&fit=crop",
+    image: "https://dropinblog.net/34252347/files/featured/Autumn_Bliss_Maple_Pecan_Latte.png",
     isNew: true,
   },
   {
@@ -102,6 +102,6 @@ export const coffeeData: CoffeeItem[] = [
     description: "Holiday spices blended with espresso and steamed milk",
     price: 5.5,
     category: "seasonal",
-    image: "https://images.unsplash.com/photo-1570828054541-3e53bb6ff013?w=500&h=500&fit=crop",
+    image: "https://flouringkitchen.com/wp-content/uploads/2023/10/gingerbread_latte_thumbnail.jpg",
   },
 ];
